@@ -26,3 +26,12 @@ let 🤓 = "smart"
 print(🤓)
 
 print("El numero de login actual es: \(currentloginAttempt) de un total disponible de: \(maximumNumberOfLoginAttempts)")
+
+//Esto es un comentario de una sola linea
+/*Esto es un comentario
+ de varias lineas*/
+
+/* Este es un comentario multilinea
+ /*Este es un comentario anidado*/
+ Este es un comentario multilinea*/
+
