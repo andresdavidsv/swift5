@@ -22,3 +22,7 @@ var red,green,blue : Double
 let π = 3.141592
 var œæ€ = "fun"
 let 🤓 = "smart"
+
+print(🤓)
+
+print("El numero de login actual es: \(currentloginAttempt) de un total disponible de: \(maximumNumberOfLoginAttempts)")
