@@ -16,3 +16,9 @@ var welcomeMessage : String
 welcomeMessage = "Hola, ¿que tal?"
 
 var red,green,blue : Double
+
+//Nomenclatura
+
+let π = 3.141592
+var œæ€ = "fun"
+let 🤓 = "smart"
