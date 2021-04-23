@@ -13,3 +13,13 @@ let maxValuInt32 = Int32.max
 
 let minValuInt64 = Int64.min
 let maxValuInt64 = Int64.max
+
+//Floats and Doubles
+
+let f1 : Float = 3.14159265
+let f2 : Double  = 3.14159265
+
+let meaninOfLife = 42 //Int
+let pi = 3.14159 // Double
+
+let anotherPi = 3 + 0.14159
