@@ -42,5 +42,10 @@ serverResponseCode = nil
 
 var surveyAnswer : String?
 surveyAnswer = "42"
-print(surveyAnswer)
+//print(surveyAnswer)
 
+if convertedAge != nil {
+    print("La edad del usuario no es nula: \(convertedAge!)")
+}else{
+    print("La edad del usuario no es nula")
+}
