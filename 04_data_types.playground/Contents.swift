@@ -49,3 +49,17 @@ if convertedAge != nil {
 }else{
     print("La edad del usuario no es nula")
 }
+
+if let actualAnswer = surveyAnswer {
+    //al llegar aqui, surveyAnswer !=nil
+    print("El string \(surveyAnswer) tiene el valor de \(actualAnswer)")
+}else{
+    //al llegar aqui, surveyAnswer = nil
+    print("El string \(surveyAnswer) es nil")
+}
+
+if let firsNumber = Int("4"),
+   let secondNumber = Int("42"),
+   firsNumber<secondNumber && secondNumber<100{
+    print("\(firsNumber) < \(secondNumber)<100")
+}
