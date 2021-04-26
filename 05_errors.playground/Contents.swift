@@ -20,3 +20,11 @@ do{
 }catch{
     //Tengo platos limpios
 }
+
+// Aserciones (debug) y Precondiciones  (build)
+
+let age = -5
+//assert(age>=0, "La edad no puede ser negativa")
+// ... Codigo sigue
+
+precondition(age>=0, "La edad no puede ser negativa")
